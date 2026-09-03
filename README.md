@@ -14,4 +14,4 @@ Bu proje, bulut tabanlı veri kaynakları (Google Sheets) kullanılarak e-ticare
 4. **Dinamik Filtreleme:** Kategori ve Şehir bazlı dinamik veri süzgeçleri.
 
 ## 📸 Dashboard Görünümü
-![Looker Studio Dashboard](./dashboard.png)
+![Looker Studio Dashboard](./gösterge%20paneli.png)
